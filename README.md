@@ -3,7 +3,7 @@
       .ptag {
       margin-bottom: 0px !important;
       margin-top: 0px !important;
-      text-align: justify;
+      text-align: justify !important;
       }
       .textFont{
         font-size: 17px;
