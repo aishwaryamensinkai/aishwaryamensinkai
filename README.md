@@ -1,5 +1,6 @@
+<!DOCTYPE html>
 <html>
-  <style>
+<style>
       .ptag {
         margin-bottom: 0px !important;
         margin-top: 0px !important;
@@ -10,7 +11,9 @@
         text-align: justify !important;
       }
   </style>
+<body></body>
 </html>
+
 
 <h1 align="center">Greeting!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
@@ -54,6 +57,6 @@
   <li>ReactJS, tailwindcss, and whipping up wireframes on Figma are my current learning obsessions.</li>
   <li>Feel free to toss any questions my way; I'm always up for a chat!</li>
   <li>Oh, and if you need to reach me, drop a line at aishwaryamensinkai@gmail.com.</li>
-   How to reach me: gapur.kassym@gmail.com;
+  - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: gapur.kassym@gmail.com;
 
 </ul>
