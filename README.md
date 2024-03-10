@@ -1,20 +1,3 @@
-<!DOCTYPE html>
-<html>
-<style>
-      .ptag {
-        margin-bottom: 0px !important;
-        margin-top: 0px !important;
-        text-align: justify !important;
-      }
-      .textFont{
-        font-size: larger !important;
-        text-align: justify !important;
-      }
-  </style>
-<body></body>
-</html>
-
-
 <h1 align="center">Greeting!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <div align="center">
@@ -31,13 +14,14 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=I'm+Aishwarya+Girish+Mensinkai" alt="Typing SVG" /></a>
 </div>
 
-<p class="ptag">
+<p style="margin-bottom: 0px !important; margin-top: 0px !important; text-align: justify !important;">
   As a full-stack software engineer, I'm deeply passionate about the art and science of coding, constantly exploring new technologies & honing my skills.
   <br/>
 </p>
 
 
-<p class="ptag">
+<p style="margin-bottom: 0px !important; margin-top: 0px !important; text-align: justify !important;
+font-size: larger !important;">
   💻 My tech passion extends beyond coding, leading me to share knowledge through presentations, leadership, and discussions in the tech community.
   <br/>
   🌍 Travel serves as my endless & enriching creative fuel, exposing me to diverse cultures & landscapes that inspire both my personal & professional life.
@@ -48,7 +32,7 @@
 </p>
 
 
-<p class="textFont ptag">
+<p style="margin-bottom: 0px !important; margin-top: 0px !important; text-align: justify !important;">
   Talking about Personal Stuffs:
 </p>
 
