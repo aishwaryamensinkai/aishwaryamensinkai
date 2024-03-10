@@ -103,5 +103,3 @@
 
   ![Snake animation](https://raw.githubusercontent.com/aishwaryamensinkai/aishwaryamensinkai/output/github-contribution-grid-snake-dark.svg)
 </div>
-
-
