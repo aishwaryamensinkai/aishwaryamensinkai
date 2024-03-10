@@ -29,29 +29,28 @@
   🌟 &nbsp; These interests converge to shape a holistic perspective, fueling continuous growth in both technological & artistic realms.
 </p>
 
-
 <h3>
   Talking about Personal Stuffs:
 </h3>
 
-<ul>
-  <li>
+<ul style="padding:0px;">
+  <li style="margin-bottom: 10px;margin-top: 10px;">
     <img src="https://github.com/aishwaryamensinkai/aishwaryamensinkai/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp;
     I'm knee-deep in something pretty exciting at the moment.
   </li>
-  <li>
+  <li style="margin-bottom: 10px;margin-top: 10px;">
     <img src="https://github.com/aishwaryamensinkai/aishwaryamensinkai/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp;
     ReactJS, tailwindcss, and whipping up wireframes on Figma are my current learning obsessions.
   </li>
-  <li>
+  <li style="margin-bottom: 10px;margin-top: 10px;">
     <img src="https://github.com/aishwaryamensinkai/aishwaryamensinkai/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp;
     Feel free to toss any questions my way; I'm always up for a chat!
   </li>
-  <li>
+  <li style="margin-bottom: 10px;margin-top: 10px;">
     <img src="https://github.com/aishwaryamensinkai/aishwaryamensinkai/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp;
     Oh, and if you need to reach me, drop a line at <a href="mailto:aishwaryamensinkai@gmail.com">aishwaryamensinkai@gmail.com</a>
   </li>
-  <li>
+  <li style="margin-bottom: 10px;margin-top: 10px;">
     <img src="https://github.com/aishwaryamensinkai/aishwaryamensinkai/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp;
     Interested in delving deeper into my qualifications and experiences? Check out my resume, attached for your reference.
   </li>
