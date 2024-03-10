@@ -32,7 +32,6 @@
   <br/>
 </p>
 
-<br/>
 
 <p class="ptag">
   💻 My tech passion extends beyond coding, leading me to share knowledge through presentations, leadership, and discussions in the tech community.
@@ -44,7 +43,6 @@
   🌟 These diverse interests converge to shape a holistic perspective, fueling continuous growth & innovation in both the technological and artistic realms.
 </p>
 
-<br/>
 
 <p class="textFont ptag">
   Talking about Personal Stuffs:
