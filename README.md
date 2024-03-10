@@ -20,8 +20,7 @@
 </p>
 
 
-<p style="margin-bottom: 0px !important; margin-top: 0px !important; text-align: justify !important;
-font-size: larger !important;">
+<p style="margin-bottom: 0px !important; margin-top: 0px !important; text-align: justify !important;">
   💻 My tech passion extends beyond coding, leading me to share knowledge through presentations, leadership, and discussions in the tech community.
   <br/>
   🌍 Travel serves as my endless & enriching creative fuel, exposing me to diverse cultures & landscapes that inspire both my personal & professional life.
@@ -32,7 +31,8 @@ font-size: larger !important;">
 </p>
 
 
-<p style="margin-bottom: 0px !important; margin-top: 0px !important; text-align: justify !important;">
+<p style="margin-bottom: 0px !important; margin-top: 0px !important; text-align: justify !important;
+font-size: larger !important;">
   Talking about Personal Stuffs:
 </p>
 
@@ -41,6 +41,4 @@ font-size: larger !important;">
   <li>ReactJS, tailwindcss, and whipping up wireframes on Figma are my current learning obsessions.</li>
   <li>Feel free to toss any questions my way; I'm always up for a chat!</li>
   <li>Oh, and if you need to reach me, drop a line at aishwaryamensinkai@gmail.com.</li>
-  - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: gapur.kassym@gmail.com;
-
 </ul>
