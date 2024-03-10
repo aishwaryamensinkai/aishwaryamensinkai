@@ -36,8 +36,30 @@
 </h3>
 
 <ul>
-  <li>I'm knee-deep in something pretty exciting at the moment.</li>
-  <li>ReactJS, tailwindcss, and whipping up wireframes on Figma are my current learning obsessions.</li>
-  <li>Feel free to toss any questions my way; I'm always up for a chat!</li>
-  <li>Oh, and if you need to reach me, drop a line at aishwaryamensinkai@gmail.com.</li>
+  <li>
+    <img src="https://github.com/aishwaryamensinkai/aishwaryamensinkai/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp;
+    I'm knee-deep in something pretty exciting at the moment.
+  </li>
+  <li>
+    <img src="https://github.com/aishwaryamensinkai/aishwaryamensinkai/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp;
+    ReactJS, tailwindcss, and whipping up wireframes on Figma are my current learning obsessions.
+  </li>
+  <li>
+    <img src="https://github.com/aishwaryamensinkai/aishwaryamensinkai/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp;
+    Feel free to toss any questions my way; I'm always up for a chat!
+  </li>
+  <li>
+    <img src="https://github.com/aishwaryamensinkai/aishwaryamensinkai/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp;
+    Oh, and if you need to reach me, drop a line at aishwaryamensinkai@gmail.com.
+  </li>
+  <li>
+    <img src="https://github.com/aishwaryamensinkai/aishwaryamensinkai/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp;
+    Interested in delving deeper into my qualifications and experiences? Check out my resume, attached for your reference.
+  </li>
 </ul>
+
+<h3 align="center">
+  <b>
+    Looking forward to some inspiring conversations and perhaps even collaborating on something groundbreaking!
+  </b>
+</h3>
