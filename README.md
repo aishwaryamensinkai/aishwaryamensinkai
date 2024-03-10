@@ -14,12 +14,12 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=I'm+Aishwarya+Girish+Mensinkai" alt="Typing SVG" /></a>
 </div>
 
-<p style="margin-bottom: 0px !important; margin-top: 0px !important; text-align: justify !important;">
+<p style="margin-bottom: 0px !important; margin-top: 0px !important; ">
   As a full-stack engineer, I'm deeply passionate about coding, driven by curiosity, exploring new technologies,& honing skills.
   <br/>
 </p>
 
-<p style="margin-bottom: 0px !important; margin-top: 0px !important; text-align: justify !important;">
+<p style="margin-bottom: 0px !important; margin-top: 0px !important; ">
   💻 My tech passion drives me to share insights through presentations, leadership, and tech community discussions.
   <br/>
   🌍 Travel fuels my creativity, exposing me to diverse cultures & landscapes that inspire both my personal & professional life.
