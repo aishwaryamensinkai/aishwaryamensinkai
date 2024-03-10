@@ -32,7 +32,7 @@
 
 
 <p style="margin-bottom: 0px !important; margin-top: 0px !important; text-align: justify !important;
-font-size: larger !important;">
+font-size: 20px;">
   Talking about Personal Stuffs:
 </p>
 
