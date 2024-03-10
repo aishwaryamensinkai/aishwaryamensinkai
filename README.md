@@ -15,19 +15,19 @@
 </div>
 
 <p style="margin-bottom: 0px !important; margin-top: 0px !important; text-align: justify !important;">
-  As a full-stack software engineer, I'm deeply passionate about the art and science of coding, constantly exploring new technologies & honing my skills.
+  As a full-stack software engineer, I'm deeply passionate about the art and science of coding, constantly exploring new technologies, honing my skills.
   <br/>
 </p>
 
 
 <p style="margin-bottom: 0px !important; margin-top: 0px !important; text-align: justify !important;">
-  💻 My tech passion extends beyond coding, leading me to share knowledge through presentations, leadership, and discussions in the tech community.
+  💻 My tech passion extends beyond coding, leading me to share knowledge through presentations, leadership, and tech community discussions.
   <br/>
-  🌍 Travel serves as my endless & enriching creative fuel, exposing me to diverse cultures & landscapes that inspire both my personal & professional life.
+  🌍 Travel serves as my endless creative fuel, exposing me to diverse cultures & landscapes that inspire both my personal & professional life.
   <br/>
-  🎨 Painting goes beyond a mere hobby; it's deep self-expression. Through it, I convey intricate emotions on canvas, sharing beauty & profound meaning.
+  🎨 Painting goes beyond a mere hobby; it's deep self-expression. Through it, I convey intricate emotions on canvas, sharing profound beauty & meaning.
   <br/>
-  🌟 These diverse interests converge to shape a holistic perspective, fueling continuous growth & innovation in both the technological and artistic realms.
+  🌟 These diverse interests converge to shape a holistic perspective, fueling continuous growth in both technological and artistic realms.
 </p>
 
 
@@ -50,7 +50,7 @@
   </li>
   <li>
     <img src="https://github.com/aishwaryamensinkai/aishwaryamensinkai/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp;
-    Oh, and if you need to reach me, drop a line at aishwaryamensinkai@gmail.com.
+    Oh, and if you need to reach me, drop a line at <a href="mailto:aishwaryamensinkai@gmail.com">aishwaryamensinkai@gmail.com</a>
   </li>
   <li>
     <img src="https://github.com/aishwaryamensinkai/aishwaryamensinkai/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp;
