@@ -31,10 +31,9 @@
 </p>
 
 
-<p style="margin-bottom: 0px !important; margin-top: 0px !important; text-align: justify !important;
-font-size: 20px;">
+<h3>
   Talking about Personal Stuffs:
-</p>
+</h3>
 
 <ul>
   <li>I'm knee-deep in something pretty exciting at the moment.</li>
