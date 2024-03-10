@@ -20,13 +20,13 @@
 </p>
 
 <p style="margin-bottom: 0px !important; margin-top: 0px !important; text-align: justify !important;">
-  💻 My tech passion extends beyond coding, leading me to share knowledge through presentations, leadership, and community discussions.
+💻 My tech passion extends beyond coding, leading me to share knowledge through presentations, leadership, & community discussions.
   <br/>
-  🌍 Travel fuels my creativity, exposing me to diverse cultures & landscapes that inspire both my personal & professional life.
+🌍 Travel fuels my creativity, exposing me to diverse cultures & landscapes that inspire both my personal & professional life.
   <br/>
-  🎨 Painting transcends a mere hobby; it's profound self-expression. Through it, I convey intricate emotions on canvas, sharing beauty & meaning.
+🎨 Painting transcends a mere hobby; it's profound self-expression. Through it, I convey intricate emotions on canvas, sharing beauty & meaning.
   <br/>
-  🌟 These interests converge to shape a holistic perspective, fueling continuous growth in both technological & artistic realms.
+🌟 These interests converge to shape a holistic perspective, fueling continuous growth in both technological & artistic realms.
 </p>
 
 
