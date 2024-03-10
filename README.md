@@ -58,6 +58,54 @@
 
 <h3 align="center">
   <b>
-    Looking forward to some inspiring conversations and perhaps even collaborating on something groundbreaking!
+    Looking forward to inspiring conversations and perhaps collaborating on something groundbreaking!
   </b>
 </h3>
+
+<div align="center">
+  <h2>Find me around the web</h2>
+  <p>
+    <a href="mailto:aishwaryamensinkai@gmail.com">
+      <img src="https://img.shields.io/badge/aishwaryamensinkai@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:aishwaryamensinkai@gmail.com" alt="aishwaryamensinkai@gmail.com" />
+    </a>
+    <a href="https://www.linkedin.com/in/aishwarya-mensinkai/">
+      <img src="https://img.shields.io/badge/aishwarya--mensinkai-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aishwarya-mensinkai/" alt="aishwarya-mensinkai" />
+    </a>
+    <a href="https://github.com/aishwaryamensinkai">
+      <img src="https://img.shields.io/badge/aishwaryamensinkai-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/aishwaryamensinkai" alt="aishwaryamensinkai" />
+    </a>
+    <br/>
+    <a href="https://google.com/">
+      <img src="https://img.shields.io/badge/Personal%20Website%20%F0%9F%92%BC-38678f?style=for-the-badge&link=https://google.com/" alt="Personal Website 💼" />
+    </a>
+  </p>
+
+
+  <h2>Languages</h2>
+
+  ![Python](https://img.shields.io/badge/-Python-000?&style=for-the-badge&logo=Python)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&style=for-the-badge&logo=JavaScript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-000?&style=for-the-badge&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-css3-000?&style=for-the-badge&logo=css3)
+  ![SQL](https://img.shields.io/badge/-SQL-000?&style=for-the-badge&logo=MySQL)
+  ![Git](https://img.shields.io/badge/-git-000?&style=for-the-badge&logo=git)
+</div>
+
+<h2> 📈 &nbsp; My Github History!</h2
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aishwaryamensinkai&show_icons=true&theme=merko">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aishwaryamensinkai&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aishwaryamensinkai&layout=compact&theme=merko">
+</p>
+
+![Snake animation](https://github.com/Gchism94/Gchism94/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
+
+![Snake animation](https://github.com/aishwaryamensinkai/aishwaryamensinkai/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
+
+
+
