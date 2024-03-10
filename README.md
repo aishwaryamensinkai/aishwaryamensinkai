@@ -20,13 +20,13 @@
 </p>
 
 <p style="margin-bottom: 0px !important; margin-top: 0px !important; ">
-  💻 My tech passion drives me to share insights through presentations, leadership, and tech community discussions.
+  💻 &nbsp; My tech passion drives me to share insights through presentations, leadership, and tech community discussions.
   <br/>
-  🌍 Travel fuels my creativity, exposing me to diverse cultures & landscapes that inspire both my personal & professional life.
+  🌍 &nbsp; Travel fuels my creativity, exposing me to diverse cultures & landscapes that inspire both my personal & professional life.
   <br/>
-  🎨 Painting is my language to share nuanced emotions and ideas, creating beauty and meaning on canvas through each stroke.
+  🎨 &nbsp; Painting is my language to share nuanced emotions and ideas, creating beauty and meaning on canvas through each stroke.
   <br/>
-  🌟 These interests converge to shape a holistic perspective, fueling continuous growth in both technological & artistic realms.
+  🌟 &nbsp; These interests converge to shape a holistic perspective, fueling continuous growth in both technological & artistic realms.
 </p>
 
 
