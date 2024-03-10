@@ -15,19 +15,18 @@
 </div>
 
 <p style="margin-bottom: 0px !important; margin-top: 0px !important; text-align: justify !important;">
-  As a full-stack software engineer, I'm deeply passionate about the art and science of coding, constantly exploring new technologies, honing my skills.
+  As a full-stack engineer, I'm deeply passionate about coding, constantly exploring new technologies, honing skills.
   <br/>
 </p>
 
-
 <p style="margin-bottom: 0px !important; margin-top: 0px !important; text-align: justify !important;">
-  💻 My tech passion extends beyond coding, leading me to share knowledge through presentations, leadership, and tech community discussions.
+  💻 My tech passion extends beyond coding, leading me to share knowledge through presentations, leadership, and community discussions.
   <br/>
-  🌍 Travel serves as my endless creative fuel, exposing me to diverse cultures & landscapes that inspire both my personal & professional life.
+  🌍 Travel fuels my creativity, exposing me to diverse cultures & landscapes that inspire both my personal & professional life.
   <br/>
-  🎨 Painting goes beyond a mere hobby; it's deep self-expression. Through it, I convey intricate emotions on canvas, sharing profound beauty & meaning.
+  🎨 Painting transcends a mere hobby; it's profound self-expression. Through it, I convey intricate emotions on canvas, sharing beauty & meaning.
   <br/>
-  🌟 These diverse interests converge to shape a holistic perspective, fueling continuous growth in both technological and artistic realms.
+  🌟 These interests converge to shape a holistic perspective, fueling continuous growth in both technological & artistic realms.
 </p>
 
 
