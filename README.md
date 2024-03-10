@@ -96,11 +96,9 @@
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aishwaryamensinkai&show_icons=true&theme=merko">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=aishwaryamensinkai&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aishwaryamensinkai&layout=compact&theme=merko">
-</p>
 
 ![Snake animation](https://github.com/Gchism94/Gchism94/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
