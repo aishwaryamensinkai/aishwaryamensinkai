@@ -57,7 +57,7 @@
   </li>
 </ul>
 
-<h3 align="center">
+<h3 align="justify">
   <b>
     Looking forward to some inspiring conversations and perhaps even collaborating on something groundbreaking!
   </b>
