@@ -91,24 +91,17 @@
   ![Git](https://img.shields.io/badge/-git-000?&style=for-the-badge&logo=git)
 </div>
 
-<h2> My Github History!</h2
 
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aishwaryamensinkai&show_icons=true&theme=merko">
+<div style="text-align:centre" align="center">
+  <h2> My Github History!</h2>
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=aishwaryamensinkai&show_icons=true&theme=onedark">
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aishwaryamensinkai&layout=compact&theme=onedark" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=aishwaryamensinkai&theme=github">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=aishwaryamensinkai&theme=onedark" />
+
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aishwaryamensinkai&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aishwaryamensinkai&layout=compact&theme=merko">
+
+  ![Snake animation](https://raw.githubusercontent.com/aishwaryamensinkai/aishwaryamensinkai/output/github-contribution-grid-snake-dark.svg)
 </div>
-
-
-<a href="https://github.com/aishwaryamensinkai" style="align:center !important;">
-
-  <img height="180em" src="https://streak-stats.demolab.com?user=aishwaryamensinkai&theme=noctis-minimus&fire=008AE6&ring=38678F" class="center"/>
-  <br>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aishwaryamensinkai&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aishwaryamensinkai&theme=noctis_minimus&layout=compact" />
-</a>
-
-![Snake animation](https://raw.githubusercontent.com/aishwaryamensinkai/aishwaryamensinkai/output/github-contribution-grid-snake-dark.svg)
 
 
