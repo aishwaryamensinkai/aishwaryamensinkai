@@ -91,10 +91,12 @@
   ![Git](https://img.shields.io/badge/-git-000?&style=for-the-badge&logo=git)
 </div>
 
-<h2> 📈 &nbsp; My Github History!</h2
+<h2> My Github History!</h2
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aishwaryamensinkai&show_icons=true&theme=merko">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aishwaryamensinkai&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
+<div>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aishwaryamensinkai&show_icons=true&theme=merko">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aishwaryamensinkai&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aishwaryamensinkai&layout=compact&theme=merko">
