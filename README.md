@@ -16,17 +16,24 @@
 
 <p style="margin-bottom: 0px !important; margin-top: 0px !important; text-align: justify !important;">
   As a full-stack engineer, I'm deeply passionate about coding, constantly exploring new technologies, honing skills.
+
+  As a full-stack engineer, I'm deeply passionate about coding, driven by curiosity, exploring new technologies,& honing skills.
   <br/>
 </p>
 
 <p style="margin-bottom: 0px !important; margin-top: 0px !important; text-align: justify !important;">
-💻 My tech passion extends beyond coding, leading me to share knowledge through presentations, leadership, & community discussions.
+  💻 My tech passion extends beyond coding, leading me to share knowledge through presentations, leadership, & community discussions.
+
+  💻 My tech passion drives me to share insights through presentations, leadership, and tech community discussions.
   <br/>
-🌍 Travel fuels my creativity, exposing me to diverse cultures & landscapes that inspire both my personal & professional life.
+  🌍 Travel fuels my creativity, exposing me to diverse cultures & landscapes that inspire both my personal & professional life.
   <br/>
-🎨 Painting transcends a mere hobby; it's profound self-expression. Through it, I convey intricate emotions on canvas, sharing beauty & meaning.
+  🎨 Art is my profound self-expression, sharing nuanced emotions and beauty through each stroke.
+
+  Painting is my language to share nuanced emotions and ideas, creating beauty and meaning on canvas.
+
   <br/>
-🌟 These interests converge to shape a holistic perspective, fueling continuous growth in both technological & artistic realms.
+  🌟 These interests converge to shape a holistic perspective, fueling continuous growth in both technological & artistic realms.
 </p>
 
 
