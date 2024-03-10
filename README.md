@@ -1,12 +1,13 @@
 <html>
   <style>
       .ptag {
-      margin-bottom: 0px !important;
-      margin-top: 0px !important;
-      text-align: justify !important;
+        margin-bottom: 0px !important;
+        margin-top: 0px !important;
+        text-align: justify !important;
       }
       .textFont{
-        font-size: 17px;
+        font-size: larger !important;
+        text-align: justify !important;
       }
   </style>
 </html>
@@ -53,4 +54,6 @@
   <li>ReactJS, tailwindcss, and whipping up wireframes on Figma are my current learning obsessions.</li>
   <li>Feel free to toss any questions my way; I'm always up for a chat!</li>
   <li>Oh, and if you need to reach me, drop a line at aishwaryamensinkai@gmail.com.</li>
+   How to reach me: gapur.kassym@gmail.com;
+
 </ul>
