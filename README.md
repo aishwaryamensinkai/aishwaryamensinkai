@@ -1,10 +1,17 @@
 <h1 align="center">Greeting!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <div align="center">
-  <table>
+  <table style="width:100%" >
     <tr>
-      <td>You are Visitor</td>
-      <td><img src="https://profile-counter.glitch.me/aishwaryamensinkai/count.svg" alt="" /></td>
+      <td align="center">
+        Looks like my website accidentally became the hottest spot in
+        town, even your visitor count decided to swing by for a party!
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://profile-counter.glitch.me/aishwaryamensinkai/count.svg" alt="" />
+      </td>
     </tr>
   </table>
 </div>
