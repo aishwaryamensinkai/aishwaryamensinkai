@@ -100,7 +100,7 @@
 
 
 <div style="text-align:centre" align="center" href="https://github.com/aishwaryamensinkai">
-  <h2> My Github History!</h2>
+  <h2> My Github History! </h2>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=aishwaryamensinkai&show_icons=true&theme=onedark">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aishwaryamensinkai&layout=compact&theme=onedark" />
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=aishwaryamensinkai&theme=github">
