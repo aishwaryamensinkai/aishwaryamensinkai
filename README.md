@@ -1,4 +1,7 @@
-<h1 align="center">Greeting!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">
+  Greeting!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+</h1>
 
 <div align="center">
   <table style="width:100%" >
@@ -18,7 +21,9 @@
 
 <div align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=I'm+Aishwarya+Girish+Mensinkai" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=I'm+Aishwarya+Girish+Mensinkai" alt="Typing SVG" />
+  </a>
 </div>
 
 <p style="margin-bottom: 0px !important; margin-top: 0px !important; ">
@@ -70,7 +75,9 @@
 </h3>
 
 <div align="center">
-  <h2>Find me around the web</h2>
+  <h2>
+    Find me around the web
+  </h2>
   <p>
     <a href="mailto:aishwaryamensinkai@gmail.com">
       <img src="https://img.shields.io/badge/aishwaryamensinkai@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:aishwaryamensinkai@gmail.com" alt="aishwaryamensinkai@gmail.com" />
@@ -88,7 +95,9 @@
   </p>
 
 
-  <h2>Languages</h2>
+  <h2>
+    Languages
+  </h2>
 
   ![Python](https://img.shields.io/badge/-Python-000?&style=for-the-badge&logo=Python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&style=for-the-badge&logo=JavaScript)
@@ -100,7 +109,9 @@
 
 
 <div style="text-align:centre" align="center" href="https://github.com/aishwaryamensinkai">
-  <h2> My Github History! </h2>
+  <h2> 
+    My Github History!
+  </h2>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=aishwaryamensinkai&show_icons=true&theme=onedark">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aishwaryamensinkai&layout=compact&theme=onedark" />
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=aishwaryamensinkai&theme=github">
