@@ -89,7 +89,7 @@
       <img src="https://img.shields.io/badge/aishwaryamensinkai-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/aishwaryamensinkai" alt="aishwaryamensinkai" />
     </a>
     <br/>
-    <a href="https://google.com/">
+    <a href="https://aishwaryamensinkai.github.io/Portfolio">
       <img src="https://img.shields.io/badge/Personal%20Website%20%F0%9F%92%BC-38678f?style=for-the-badge&link=https://google.com/" alt="Personal Website 💼" />
     </a>
   </p>
