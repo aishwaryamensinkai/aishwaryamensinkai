@@ -98,22 +98,59 @@
 
   </p>
 
-
   <h2>
-    Languages
+    Programming Languages
   </h2>
 
-  ![Python](https://img.shields.io/badge/-Python-000?&style=for-the-badge&logo=Python)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&style=for-the-badge&logo=JavaScript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-000?&style=for-the-badge&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-css3-000?&style=for-the-badge&logo=css3)
-  ![SQL](https://img.shields.io/badge/-SQL-000?&style=for-the-badge&logo=MySQL)
-  ![Git](https://img.shields.io/badge/-git-000?&style=for-the-badge&logo=git)
+![C](https://img.shields.io/badge/-C-000?&style=for-the-badge&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?&style=for-the-badge&logo=C%2B%2B)
+![SQL](https://img.shields.io/badge/-SQL-000?&style=for-the-badge&logo=MySQL)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&style=for-the-badge&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&style=for-the-badge&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&style=for-the-badge&logo=TypeScript)
+![Python](https://img.shields.io/badge/-Python-000?&style=for-the-badge&logo=Python)
+![Java](https://img.shields.io/badge/-Java-000?&style=for-the-badge&logo=Java)
+
+<h2>Frameworks</h2>
+
+![React.js](https://img.shields.io/badge/-React.js-000?&style=for-the-badge&logo=React)
+![Angular.js](https://img.shields.io/badge/-Angular.js-000?&style=for-the-badge&logo=Angular)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&style=for-the-badge&logo=Node.js)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&style=for-the-badge&logo=Flutter)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&style=for-the-badge&logo=Firebase)
+![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-000?&style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?&style=for-the-badge&logo=GraphQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&style=for-the-badge&logo=MongoDB)5
+![MySQL](https://img.shields.io/badge/-MySQL-000?&style=for-the-badge&logo=MySQL)
+![Swift UI](https://img.shields.io/badge/-Swift%20UI-000?&style=for-the-badge&logo=Swift)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&style=for-the-badge&logo=PostgreSQL)
+
+ <h2>Software</h2>
+
+![Office](https://img.shields.io/badge/-Office-000?&style=for-the-badge&logo=Microsoft%20Office)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&style=for-the-badge&logo=Visual%20Studio%20Code)
+![Postman](https://img.shields.io/badge/-Postman-000?&style=for-the-badge&logo=Postman)
+![Eclipse](https://img.shields.io/badge/-Eclipse-000?&style=for-the-badge&logo=Eclipse)
+![Git](https://img.shields.io/badge/-Git-000?&style=for-the-badge&logo=Git)
+![WordPress](https://img.shields.io/badge/-WordPress-000?&style=for-the-badge&logo=WordPress)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&style=for-the-badge&logo=Spring)
+![Gradle](https://img.shields.io/badge/-Gradle-000?&style=for-the-badge&logo=Gradle)
+![Xcode](https://img.shields.io/badge/-Xcode-000?&style=for-the-badge&logo=Xcode)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?&style=for-the-badge&logo=Android)
+![Figma](https://img.shields.io/badge/-Figma-000?&style=for-the-badge&logo=Figma)
+
+ <h2>Operating Systems</h2>
+
+![Linux](https://img.shields.io/badge/-Linux-000?&style=for-the-badge&logo=Linux)
+![Windows 10](https://img.shields.io/badge/-Windows%2010-000?&style=for-the-badge&logo=Windows)
+![Mac OS](https://img.shields.io/badge/-Mac%20OS-000?&style=for-the-badge&logo=Apple)
+![Virtualization](https://img.shields.io/badge/-Virtualization-000?&style=for-the-badge&logo=VirtualBox)
+
 </div>
 
-
 <div style="text-align:centre" align="center" href="https://github.com/aishwaryamensinkai">
-  <h2> 
+  <h2>
     My Github History!
   </h2>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=aishwaryamensinkai&show_icons=true&theme=onedark">
@@ -123,5 +160,6 @@
 
   <br/>
 
-  ![Snake animation](https://raw.githubusercontent.com/aishwaryamensinkai/aishwaryamensinkai/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/aishwaryamensinkai/aishwaryamensinkai/output/github-contribution-grid-snake-dark.svg)
+
 </div>
