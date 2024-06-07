@@ -95,12 +95,14 @@
     <a href="https://medium.com/@aishwaryamensinkai">
   <img src="https://img.shields.io/badge/aishwaryamensinkai-purple?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@aishwaryamensinkai" alt="aishwaryamensinkai" />
 </a>
-
   </p>
 
-  <h2>
-    Programming Languages
-  </h2>
+  <h2>Skills</h2>
+
+<div align="justify">
+<table>
+  <tr>
+    <b>Programming Languages</b>
 
 ![C](https://img.shields.io/badge/-C-000?&style=for-the-badge&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&style=for-the-badge&logo=C%2B%2B)
@@ -112,7 +114,9 @@
 ![Python](https://img.shields.io/badge/-Python-000?&style=for-the-badge&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000?&style=for-the-badge&logo=Java)
 
-<h2>Frameworks</h2>
+  </tr>
+  <tr>
+    <b>Frameworks</b>
 
 ![React.js](https://img.shields.io/badge/-React.js-000?&style=for-the-badge&logo=React)
 ![Angular.js](https://img.shields.io/badge/-Angular.js-000?&style=for-the-badge&logo=Angular)
@@ -121,12 +125,14 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&style=for-the-badge&logo=Firebase)
 ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-000?&style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&style=for-the-badge&logo=GraphQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&style=for-the-badge&logo=MongoDB)5
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&style=for-the-badge&logo=MongoDB)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&style=for-the-badge&logo=MySQL)
 ![Swift UI](https://img.shields.io/badge/-Swift%20UI-000?&style=for-the-badge&logo=Swift)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&style=for-the-badge&logo=PostgreSQL)
 
- <h2>Software</h2>
+  </tr>
+  <tr>
+    <b>Software</b>
 
 ![Office](https://img.shields.io/badge/-Office-000?&style=for-the-badge&logo=Microsoft%20Office)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&style=for-the-badge&logo=Visual%20Studio%20Code)
@@ -140,12 +146,18 @@
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?&style=for-the-badge&logo=Android)
 ![Figma](https://img.shields.io/badge/-Figma-000?&style=for-the-badge&logo=Figma)
 
- <h2>Operating Systems</h2>
+  </tr>
+
+  <tr>
+    <b>Operating Systems</b>
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&style=for-the-badge&logo=Linux)
 ![Windows 10](https://img.shields.io/badge/-Windows%2010-000?&style=for-the-badge&logo=Windows)
 ![Mac OS](https://img.shields.io/badge/-Mac%20OS-000?&style=for-the-badge&logo=Apple)
-![Virtualization](https://img.shields.io/badge/-Virtualization-000?&style=for-the-badge&logo=VirtualBox)
+
+  </tr>
+</table>
+</div>
 
 </div>
 
