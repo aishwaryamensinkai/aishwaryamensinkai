@@ -99,7 +99,7 @@
 
   <h2>Skills</h2>
 
-<div align="centre">
+<div align="justify">
 <table>
   <tr>
     <b>Programming Languages</b>
