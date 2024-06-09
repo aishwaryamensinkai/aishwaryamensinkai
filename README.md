@@ -27,7 +27,7 @@
 </div>
 
 <p style="margin-bottom: 0px !important; margin-top: 0px !important; ">
-  As a full-stack engineer, I'm deeply passionate about coding, driven by curiosity, exploring new technologies,& honing skills.
+  As a full-stack engineer, I'm deeply passionate about coding, driven by curiosity, exploring new technologies,and honing skills.
   <br/>
 </p>
 
