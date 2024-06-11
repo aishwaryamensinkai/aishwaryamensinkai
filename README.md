@@ -39,6 +39,8 @@
   🎨 &nbsp; Painting is my language to share nuanced emotions and ideas, creating beauty and meaning on canvas through each stroke.
   <br/>
   🌟 &nbsp; These interests converge to shape a holistic perspective, fueling continuous growth in both technological & artistic realms.
+  <br/>
+  For insightful and engaging articles on a wide range of topics, explore my content on Medium.
 </p>
 
 <h3>
