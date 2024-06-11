@@ -68,8 +68,10 @@
     Interested in delving deeper into my qualifications and experiences? Check out my portfolio, attached for your reference.
   </li>
   <li>
-  <img src="https://img.shields.io/badge/aishwaryamensinkai-purple?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@aishwaryamensinkai" alt="aishwaryamensinkai" />
+  <img src="https://img.shields.io/badge/aishwaryamensinkai-purple?style=for-the-badge&logo=medium&logoColor=white" alt="aishwaryamensinkai" />
     &nbsp;&nbsp;
+  
+  ![Medium](https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=medium)
     For insightful and engaging articles on a wide range of topics, explore my content on Medium.
   </li>
 </ul>
