@@ -40,7 +40,8 @@
   <br/>
   🌟 &nbsp; These interests converge to shape a holistic perspective, fueling continuous growth in both technological & artistic realms.
   <br/>
-  For insightful and engaging articles on a wide range of topics, explore my content on Medium.
+  &nbsp; For insightful and engaging articles on a wide range of topics, explore my content on Medium.
+  <br/>
 </p>
 
 <h3>
