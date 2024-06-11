@@ -65,7 +65,10 @@
   </li>
   <li style="margin-bottom: 10px;margin-top: 10px;">
     <img src="https://github.com/aishwaryamensinkai/aishwaryamensinkai/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp;
-    Interested in delving deeper into my qualifications and experiences? Check out my resume, attached for your reference.
+    Interested in delving deeper into my qualifications and experiences? Check out my portfolio, attached for your reference.
+  </li>
+  <li>
+    For insightful and engaging articles on a wide range of topics, explore my content on Medium.
   </li>
 </ul>
 
