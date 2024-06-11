@@ -68,8 +68,6 @@
     Interested in delving deeper into my qualifications and experiences? Check out my portfolio, attached for your reference.
   </li>
   <li>
-    
-  ![](https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=medium)
     For insightful and engaging articles on a wide range of topics, explore my content on Medium.
   </li>
 </ul>
