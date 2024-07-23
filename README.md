@@ -40,6 +40,9 @@
   <br/>
   🌟 &nbsp; These interests converge to shape a holistic perspective, fueling continuous growth in both technological & artistic realms.
   <br/>
+  🎉 &nbsp; **Participant au SUMMER HACKATHON July 11-12th, 2024** Organized by Codédex.[ici](https://www.codedex.io/hackathon).  
+  <img src="assets/hackathon-poster.png" alt="HACKATHON POSTER"  width="420" align="center"/>
+
 </p>
 
 <h3>
