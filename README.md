@@ -91,8 +91,8 @@
     <a href="mailto:aishwaryamensinkai@gmail.com">
       <img src="https://img.shields.io/badge/aishwaryamensinkai@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:aishwaryamensinkai@gmail.com" alt="aishwaryamensinkai@gmail.com" />
     </a>
-    <a href="https://www.linkedin.com/in/aishwarya-mensinkai/">
-      <img src="https://img.shields.io/badge/aishwarya--mensinkai-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aishwarya-mensinkai/" alt="aishwarya-mensinkai" />
+<!--     <a href="https://www.linkedin.com/in/aishwarya-mensinkai/">
+      <img src="https://img.shields.io/badge/aishwarya--mensinkai-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aishwarya-mensinkai/" alt="aishwarya-mensinkai" /> -->
     </a>
     <a href="https://github.com/aishwaryamensinkai">
       <img src="https://img.shields.io/badge/aishwaryamensinkai-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/aishwaryamensinkai" alt="aishwaryamensinkai" />
